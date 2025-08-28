@@ -57,9 +57,9 @@ This project applies **Hierarchical Clustering** with **PCA (Principal Component
 
 ## 📷 Visuals  
 
-![PCA Scatter Plot](images/scatter.png)  
-![Dendrogram](images/dendrogram.png)  
-![Cluster Heatmap](images/cluster_heatmap.png)  
+![PCA Scatter Plot](images/PCA transformed data.png)  
+![Dendrogram](images/Dendrogram.png)  
+![Cluster Heatmap](images/clusters_heatmap.png)  
 ![Cross-tab Heatmap](images/crosstab_heatmap.png)  
 
 ---
