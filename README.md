@@ -57,10 +57,10 @@ This project applies **Hierarchical Clustering** with **PCA (Principal Component
 
 ## 📷 Visuals  
 
-1. **PCA Scatter Plot** – Transformed 2D data  
-2. **Dendrogram** – Hierarchical structure of clusters  
-3. **Heatmap (Cluster Means)** – Cluster-level spending behavior  
-4. **Cross-tab Heatmap** – Comparison of predicted clusters vs actual channels  
+![PCA Scatter Plot](images/scatter.png)  
+![Dendrogram](images/dendrogram.png)  
+![Cluster Heatmap](images/cluster_heatmap.png)  
+![Cross-tab Heatmap](images/crosstab_heatmap.png)  
 
 ---
 
